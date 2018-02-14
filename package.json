@@ -1,0 +1,23 @@
+{
+  "name": "webpack-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilaibs/webpack-guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilaibs/webpack-guide/issues"
+  },
+  "homepage": "https://github.com/camilaibs/webpack-guide#readme",
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  }
+}
